@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://gustavzgrants.github.io/csb-26w9g4/static/css/main.da3a7e09.css",
+    "main.js": "https://gustavzgrants.github.io/csb-26w9g4/static/js/main.da64ebf2.js",
+    "index.html": "https://gustavzgrants.github.io/csb-26w9g4/index.html",
+    "main.da3a7e09.css.map": "https://gustavzgrants.github.io/csb-26w9g4/static/css/main.da3a7e09.css.map",
+    "main.da64ebf2.js.map": "https://gustavzgrants.github.io/csb-26w9g4/static/js/main.da64ebf2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da3a7e09.css",
+    "static/js/main.da64ebf2.js"
+  ]
+}
